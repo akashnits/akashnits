@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**akashnits/akashnits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akash, a passionate software developer from Bangalore. 
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently working as Backend enginner at Khoros.
+- Exploring new technologies and frameworks to enhance my skills.
+
+## 🌱 What I'm Learning
+
+- Learning about Distributed microservices architecture, AWS services, web app development etc.
+- Improving my knowledge of algorithms and data structures.
+
+## 💼 Skills
+
+- Languages: Java, Kotin, Python
+- Backend: Spring Boot/Dropwizard
+- Databases: DynamoDb, MySQL, Redis
+- Tools: Git, Intellij, Docker, Jenkins
+
+## 📫 How to Reach Me
+
+- Email: akash.nits@gmail.com
+- LinkedIn: [Akash](https://www.linkedin.com/in/akashnits/)
+
+## 😄 Pronouns
+
+- He/Him
+
+## 📊 GitHub Stats
+
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashnits)](https://github.com/akashnits/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashnits&layout=compact)](https://github.com/akashnits/github-readme-stats)
+
+![Akash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashnits)
+
+![Akash's GitHub Contributions](https://github-contributions.vercel.app/api/?username=akashnits)
+
+![Akash's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akashnits)
