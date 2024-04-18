@@ -36,6 +36,4 @@ I'm Akash, a passionate software developer from Bangalore.
 
 ![Akash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashnits)
 
-![Akash's GitHub Contributions](https://github-contributions.vercel.app/api/?username=akashnits)
-
 ![Akash's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akashnits)
