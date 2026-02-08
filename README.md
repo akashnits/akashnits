@@ -4,7 +4,7 @@ I'm Akash, a passionate software developer from Bangalore.
 
 ## 🔭 What I'm Working On
 
-- Currently working as Backend engineer at Khoros.
+- Currently working as Software engineer at Lantern.
 - Exploring new technologies and frameworks to enhance my skills.
 
 ## 🌱 What I'm Learning
